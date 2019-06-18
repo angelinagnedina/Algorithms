@@ -1,5 +1,7 @@
 'use strict';
 
+//Это бинарный поиск, детка
+
 function binary_search (array, item) {
     let low = 0;
     let high = array.length - 1;
